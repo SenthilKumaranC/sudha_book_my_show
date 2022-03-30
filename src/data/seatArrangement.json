@@ -1,0 +1,22 @@
+[
+  {
+    "id": "seat_0",
+    "seatState": "empty"
+  },
+  {
+    "id": "seat_1",
+    "seatState": "selected"
+  },
+  {
+    "id": "seat_2",
+    "seatState": "occupied"
+  },
+  {
+    "id": "seat_3",
+    "seatState": "empty"
+  },
+  {
+    "id": "seat_4",
+    "seatState": "selected"
+  }
+]

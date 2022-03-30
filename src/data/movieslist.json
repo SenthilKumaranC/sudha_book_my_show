@@ -1,0 +1,27 @@
+[
+  {
+    "id": "XX0",
+    "movieName": "RRR",
+    "ticketPrice": 500
+  },
+  {
+    "id": "XX1",
+    "movieName": "RRR",
+    "ticketPrice": 500
+  },
+  {
+    "id": "XX2",
+    "movieName": "BAHUBALI",
+    "ticketPrice": 400
+  },
+  {
+    "id": "XX3",
+    "movieName": "KABAALI",
+    "ticketPrice": 500
+  },
+  {
+    "id": "XX4",
+    "movieName": "KAALA",
+    "ticketPrice": 300
+  }
+]
